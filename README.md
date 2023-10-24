@@ -42,7 +42,7 @@
   <img align="center" alt="elzenir-Js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="elzenir-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
  <img align="center" alt="elzenir-c" height="20" width="40" src="https://skillicons.dev/icons?i=c">
-  <img align="center" alt="elzenir-Python" height="20" width="40" src="[https://skillicons.dev/icons?i=python">
+  <img align="center" alt="elzenir-Python" height="20" width="40" src="https://skillicons.dev/icons?i=python">
 </div>
 </div>
 
