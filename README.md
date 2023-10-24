@@ -21,9 +21,10 @@
  
  <br>
  <div align=left>
- - 🔭 Sou desenvolvedora e estudante de Análise e Desenvolvimento de Sistemas (2/5 semestres )
+ - 🔭 Sou desenvolvedora e estudante de Análise e Desenvolvimento de Sistemas (2/6 semestres )
 <br>- 🤔 Estou sempre disponível para aplicar meus conhecimentos e absorver novos conhecimentos, todos ganhamos! 
  <br>- 💬 Pode me perguntar sobre o que quiser!
+  <br>- 👀 Desenvolvimento Web! 
  </div>
  
  <div align=center>
@@ -41,7 +42,7 @@
   <img align="center" alt="elzenir-Js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="elzenir-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
  <img align="center" alt="elzenir-c" height="20" width="40" src="https://skillicons.dev/icons?i=c">
-  <img align="center" alt="elzenir-PYTHON" height="20" width="40" src="[https://skillicons.dev/icons?i=c](https://skillicons.dev/icons?i=all)">
+  <img align="center" alt="elzenir-Python" height="20" width="40" src="[https://skillicons.dev/icons?i=python">
 </div>
 </div>
 
